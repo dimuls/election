@@ -1,5 +1,5 @@
 # election
-This is example election service based on ethereum smart contract with web interface and command line control script. Written in [go](https://golang.org/) and [solidity](https://github.com/ethereum/solidity) using [geth](https://github.com/ethereum/go-ethereum/)
+This is example election service based on ethereum smart contract with web interface and command line control app. Written in [go](https://golang.org/) and [solidity](https://github.com/ethereum/solidity) using [geth](https://github.com/ethereum/go-ethereum/)
 
 # Download
 
@@ -28,7 +28,7 @@ Next build it:
 $ make
 ```
 
-Now you will get `election` (or `election.exe` for windows) binary current path.
+Now you will get `election` (or `election.exe` for windows) binary.
 
 # How to use it
 
