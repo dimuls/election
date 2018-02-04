@@ -1,5 +1,5 @@
 # election
-This is example election service based on ethereum smart contract with web interface and command line control app. Written in [go](https://golang.org/) and [solidity](https://github.com/ethereum/solidity) using [geth](https://github.com/ethereum/go-ethereum/)
+This is example election service based on ethereum smart contract with web interface and command line control app. Written in [go](https://golang.org/) and [solidity](https://github.com/ethereum/solidity) using [geth](https://github.com/ethereum/go-ethereum/). Web UI written using [knockout.js](http://knockoutjs.com/) and [lodash.js](https://lodash.com/).
 
 # Download
 
