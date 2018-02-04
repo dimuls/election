@@ -1,0 +1,77 @@
+hash: 148d83770b2eeef1b80b19e0fa0b99fffa42a65e8f0c2b5a4ec6d57289710912
+updated: 2018-02-04T06:52:55.8463151+03:00
+imports:
+- name: github.com/aristanetworks/goarista
+  version: 715120d92d2c52780078ee6da2318c2c37d77dc7
+  subpackages:
+  - monotime
+- name: github.com/btcsuite/btcd
+  version: 50de9da05b50eb15658bb350f6ea24368a111ab7
+  subpackages:
+  - btcec
+- name: github.com/ethereum/go-ethereum
+  version: 4bb3c89d44e372e6a9ab85a8be0c9345265c763a
+  subpackages:
+  - accounts
+  - accounts/abi
+  - accounts/abi/bind
+  - accounts/keystore
+  - common
+  - common/hexutil
+  - common/math
+  - common/mclock
+  - core/types
+  - crypto
+  - crypto/randentropy
+  - crypto/secp256k1
+  - crypto/sha3
+  - ethclient
+  - event
+  - log
+  - params
+  - rlp
+  - rpc
+  - trie
+- name: github.com/go-stack/stack
+  version: 259ab82a6cad3992b4e21ff5cac294ccb06474bc
+- name: github.com/howeyc/gopass
+  version: bf9dde6d0d2c004a008c27aaee91170c786f6db8
+- name: github.com/pborman/uuid
+  version: c65b2f87fee37d1c7854c9164a450713c28d50cd
+- name: github.com/rcrowley/go-metrics
+  version: 8732c616f52954686704c8645fe1a9d59e9df7c1
+- name: github.com/rjeczalik/notify
+  version: 27b537f07230b3f917421af6dcf044038dbe57e2
+- name: github.com/rs/cors
+  version: feef513b9575b32f84bafa580aad89b011259019
+- name: github.com/urfave/cli
+  version: 0bdeddeeb0f650497d603c4ad7b20cfe685682f6
+- name: golang.org/x/crypto
+  version: 1875d0a70c90e57f11972aefd42276df65e895b9
+  subpackages:
+  - pbkdf2
+  - scrypt
+  - ssh/terminal
+- name: golang.org/x/net
+  version: b417086c80e91bfa321ef761574721644b8b9f61
+  subpackages:
+  - websocket
+- name: golang.org/x/sys
+  version: 37707fdb30a5b38865cfb95e5aab41707daec7fd
+  subpackages:
+  - unix
+  - windows
+- name: golang.org/x/tools
+  version: 25101aadb97aa42907eee6a238d6d26a6cb3c756
+  subpackages:
+  - go/ast/astutil
+  - imports
+- name: gopkg.in/fatih/set.v0
+  version: 168a5d71ba0669ae06888225478d73a113f1687e
+- name: gopkg.in/karalabe/cookiejar.v2
+  version: 8dcd6a7f4951f6ff3ee9cbb919a06d8925822e57
+  subpackages:
+  - collections/prque
+- name: gopkg.in/natefinch/npipe.v2
+  version: c1b8fa8bdccecb0b8db834ee0b92fdbcfa606dd6
+testImports: []

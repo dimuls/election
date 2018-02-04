@@ -1,0 +1,18 @@
+package: github.com/someanon/election
+license: MIT
+owners:
+- name: Vadim Chernov
+  email: dimuls@yandex.ru
+import:
+- package: github.com/ethereum/go-ethereum
+  version: 1.7.3
+  subpackages:
+  - accounts/abi
+  - accounts/abi/bind
+  - common
+  - core/types
+  - ethclient
+- package: github.com/urfave/cli
+  version: 1.19.1
+- package: github.com/howeyc/gopass
+  version: bf9dde6d0d2c004a008c27aaee91170c786f6db8 # Commit on Jan 9, 2017
